@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @CarolainMaccha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### Mi nombre es Carolain Maccha  👋
 #### Desarrollador web junior full-stack 💻♨️
 
 #### Actualmente me dedico a:
 
    - Reforzar conocimientos sobre el stack tecnológico Java y nuevas tecnologías (Vue, Python, PhP)
-   -Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-   -Estudiando Desarrollo de Aplicaciones Web .
+   - Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo 🌱
+   - Estudiando Desarrollo de Aplicaciones Web .
 ___
 
 #### Tengo conocimientos sobre:
@@ -39,7 +33,7 @@ _____
  
 Git y Github...
 
-#### Algunos de mis proyectos:
+#### Algunos de mis proyectos 💞️ :
 <!-- imagenes para la tabla:
 <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>  
 
@@ -67,6 +61,6 @@ https://codepen.io/carol
 
 <a href="https://linkedin.com/in/carlos-salvador-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />carolinegiselle26@hotmail.com</a>
+<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />carolinegiselle26@hotmail.com</a>📫
 </p>
 
