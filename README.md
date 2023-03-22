@@ -55,9 +55,9 @@ Proyex 	rockPaperScissors
 carolainMacchaMasabel
 #### ¿Hablamos?☕️
 
-https://codepen.io/carol
+
 <p align="left">
-<a href="https://codepen.io/caroline-giselle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/caroline-giselle" height="30" width="40" /></a>
+<a href="https://codepen.io/caroline-giselle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/caroline-giselle" height="30" width="40" />https://codepen.io/caroline-giselle</a>
 
 <a href="https://www.linkedin.com/in/carolainmacchamasabel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carolain maccha" height="30" width="40" />linkedin</a>
 
